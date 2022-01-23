@@ -7,14 +7,49 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 ## Roadmap
 ![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.svg)
 
-### Phases Overview
-![NFgenes Roadmap: Phases Overview](https://github.com/nfgenes/overview/blob/main/nfgenes_phases.svg)
+### Phase 1: Genesis Mint
+- identify the initial list of ~20,213 unique human genes and save a keyed json file of the list to IPFS. The information for each gene entry in the list will contain the base set of data for each NFgene.
 
-### Phase 2
+- design a decentralized, updatable and readable storage solution for all human gene related data (DNA, RNA and protein level)
+
+- publish long term project roadmap and begin applying for grants
+
+- identify and compile a list of labs, researchers & foundations to airdrop genesis mint NFTs to
+
+### Phase 2: Built a web3 user interface to facilitate advanced research and query capabilities
+- build a web3 front end user interface to allow advanced query capabilities and data harvesting.
+
+- Anticipated users expected to be considered 'power users' who will be consuming large amounts of data and need ability to query entire gene database.
+
+- a small fee per query will be charged, along the lines of something between $0.35 - $0.85 per query, with the aim to keep query fee below $1.00
+
+- Query fees will be used to fund further UI improvements and pay royalties back to NFgene holders and NFgene DAO
 
 ### Phase 3
+- create a DAO that provides exclusive access to genesis mint holders
+
+- enables decentralized governance of the NFgene ecosystem to
+    - promote the sharing of human genome data
+    - create value for the scientific community
+    - build a community that promotes education through NFTs
+
+- assign a multi-sig wallet to the DAO that enables governance
+    - controls all NFgene project contracts
+    - enables a peer review process for data integrity
+    - controls any funding received from royalties or grants
+    - approves commission of new NFgene projects
+    - approves distribution of DAO funs for grants & bounties
 
 ### Phase 4
+- incentivise collaborations with artists to create representations of:
+     - Proteins
+        - 3D models of single proteins
+        - protein complexes (protein-protein interactions)
+        - functions
+        - dysfunctions (mutation effects)
+     - DNA - RNA - protein interactions
+
+- develop a royalty model that compensates artists and provides revenue for NFgene DAO to offer bounties and commission more projects
 
 ## NFgenes Ecosystem
 ![NFgenes Ecosystem](https://github.com/nfgenes/overview/blob/main/nfgenes_ecosystem_overview.svg)
