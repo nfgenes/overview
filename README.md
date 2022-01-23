@@ -5,7 +5,7 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 [![GPL-3.0-or-later](https://img.shields.io/badge/License-GPL-3.0-or-later-yellow.svg)](https://opensource.org/licenses/)
 
 ## Roadmap
-![NFgenes Roadmap]()
+![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.svg)
 
 ### Phase 1
 ![NFgenes Roadmap: Phase 1]()
