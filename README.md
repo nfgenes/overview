@@ -3,7 +3,7 @@
 NFgenes is a decentralized science (DeSci) project aiming to bring data and collaboration for human genome research to the blockchain. Share knowledge, create value, build a community and teach science.
 
 - [Roadmap](https://github.com/nfgenes/overview#roadmap)
-- [NFgene List and Genesis Collection](https://github.com/nfgenes/nfgenes_list#nfgenes-nonfungible-genes-overview)
+- [NFgene List and Genesis Collection](https://github.com/nfgenes/nfgenes_list#nfgenes-list--genesis-collection-contract)
     - [NFgenes List](https://github.com/nfgenes/nfgenes_list/tree/main/data#nfgenes-list)
         - [Demo Proof of Concept: Storing NFgenes List on IPFS](https://nfgeneslist.onrender.com/)
         - [Repository](https://github.com/nfgenes/front_end_nfgenes_list#nfgenes-nonfungible-genes-overview)
