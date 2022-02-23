@@ -6,11 +6,11 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 - [NFgene List and Genesis Collection](https://github.com/nfgenes/nfgenes_list#nfgenes-list--genesis-collection-contract)
     - [NFgenes List](https://github.com/nfgenes/nfgenes_list/tree/main/data#nfgenes-list)
         - [Demo Proof of Concept: Storing NFgenes List on IPFS](https://nfgeneslist.onrender.com/)
-        - [PoC Web3 UI Code Repo](https://github.com/nfgenes/nfgenes_contract#nfgenes-minting-contracts)
+        - [Minting Contracts](https://github.com/nfgenes/nfgenes_contract#nfgenes-minting-contracts)
     - [Genesis NFT Collection Contracts](https://github.com/nfgenes/nfgenes_contract)
-- [Methodology for Compiling original list of NFgenes](https://github.com/nfgenes/compile_genesis_gene_list)
-- Utilities
-    - [Merkle Tree generator](https://github.com/nfgenes/merkletree_generator)
+- [Methodology for Compiling original list of NFgenes](https://github.com/nfgenes/source_data)
+- Utilities (Mostly experimental at this point)
+    - [MerkleMe (Generating Merkle Trees)](https://github.com/nfgenes/merkleme)
     - [Python scripts to convert NFgene source data from csv to SVG and PNG](https://github.com/nfgenes/csv2svg2png#csv2svg2png)
 ------------
 
