@@ -19,13 +19,15 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 ![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.svg)
 
 ### Phase 1: Genesis Mint
-- identify the initial list of ~20,213 unique human genes and save a keyed json file of the list to IPFS. The information for each gene entry in the list will contain the base set of data for each NFgene.
+- identify the initial list of ~20,000 unique human genes and save a keyed json file of the list to IPFS. The information for each gene entry in the list will contain the base set of data for each NFgene.
 
 - design a decentralized, updatable and readable storage solution for all human gene related data (DNA, RNA and protein level)
 
 - publish long term project roadmap and begin applying for grants
 
 - identify and compile a list of labs, researchers & foundations to airdrop genesis mint NFTs to
+
+![NFgenes Panel Structure](https://github.com/nfgenes/overview/blob/main/NFgenes_structure.png)
 
 ### Phase 2: Built a web3 user interface to facilitate advanced research and query capabilities
 - build a web3 front end user interface to allow advanced query capabilities and data harvesting.
