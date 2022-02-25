@@ -11,12 +11,12 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
     - [Genesis NFT Collection Contracts](https://github.com/nfgenes/nfgenes_contract)
 - [Methodology for Compiling original list of NFgenes](https://github.com/nfgenes/source_data)
 - Utilities (Mostly experimental at this point)
-    - [MerkleMe (Generating Merkle Trees)](https://github.com/nfgenes/merkleme)
+    - [Merkle Tree Generator](https://github.com/nfgenes/merkletree_generator)
     - [Python scripts to convert NFgene source data from csv to SVG and PNG](https://github.com/nfgenes/csv2svg2png#csv2svg2png)
 ------------
 
 ## Roadmap
-![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.png)
+![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/NFgenes_roadmap.png)
 
 ### Phase 1: Genesis Mint
 - identify the initial list of ~20,000 unique human genes and save a keyed json file of the list to IPFS. The information for each gene entry in the list will contain the base set of data for each NFgene.
@@ -65,4 +65,4 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 - develop a royalty model that compensates artists and provides revenue for NFgene DAO to offer bounties and commission more projects
 
 ## NFgenes Ecosystem
-![NFgenes Ecosystem](https://github.com/nfgenes/overview/blob/main/nfgenes_overview.png)
+![NFgenes Ecosystem](https://github.com/nfgenes/overview/blob/main/NFgenes_overview.png)
