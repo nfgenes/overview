@@ -16,7 +16,7 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 ------------
 
 ## Roadmap
-![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.svg)
+![NFgenes Roadmap](https://github.com/nfgenes/overview/blob/main/nfgenes_roadmap.png)
 
 ### Phase 1: Genesis Mint
 - identify the initial list of ~20,000 unique human genes and save a keyed json file of the list to IPFS. The information for each gene entry in the list will contain the base set of data for each NFgene.
@@ -65,4 +65,4 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 - develop a royalty model that compensates artists and provides revenue for NFgene DAO to offer bounties and commission more projects
 
 ## NFgenes Ecosystem
-![NFgenes Ecosystem](https://github.com/nfgenes/overview/blob/main/nfgenes_ecosystem_overview.svg)
+![NFgenes Ecosystem](https://github.com/nfgenes/overview/blob/main/nfgenes_overview.png)
