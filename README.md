@@ -7,7 +7,6 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
     - [NFgenes List](https://github.com/nfgenes/nfgenes_list/tree/main/data#nfgenes-list)
         - [Demo Proof of Concept: Storing NFgenes List on IPFS](https://nfgeneslist.onrender.com/)
         - [NFgenes List Contract](https://github.com/nfgenes/nfgenes_list)
-    - [Minting Contracts](https://github.com/nfgenes/nfgenes_contract)
     - [Genesis NFT Collection Contracts](https://github.com/nfgenes/nfgenes_contract)
 - [Methodology for Compiling original list of NFgenes](https://github.com/nfgenes/source_data)
 - Utilities (Mostly experimental at this point)
